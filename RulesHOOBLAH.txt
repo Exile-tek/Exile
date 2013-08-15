@@ -1,7 +1,4 @@
 1
-
-
-
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@X
 
 
@@ -12,8 +9,8 @@
           PERMANENT BAN     TEMPORARY BAN      JAIL     MUTE
 
           IN CASE OF REINCIDENT THE PUNISHMENT MAY INCREASE!
-             PUNISHMENT TIME IS DECIDED DEPENDING ON THE SEVERITY
-       IF YOU TAKE THE RULES TEST APEALING PUNISHMENT IS EASIER
+         PUNISHMENT TIME IS DECIDED DEPENDING ON THE SEVERITY
+		 AND 
 
 
    *NO RACISM                    |  *NO DISSENT/RANDOM PVP
@@ -25,4 +22,5 @@
    *NO GRIEFING OR STEALING      \  *NO CAPS-LOCK IN GLOBAL
    *NO BYPASSING CLAIMS          /  *NO SPAMMING
    *NO SKY FARMS                 |  *ENGLISH IN GLOBAL ONLY
+   
      In other words: We are a server to have fun building together
