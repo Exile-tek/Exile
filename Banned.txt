@@ -1,16 +1,10 @@
 1                            
-                           BANNED MODS:
+                        BANNED MODS:
 								
-                           Soulshards 
-                           Thaumcraft
-                         Thaumic Tinkerer 
-                         Xenos Reliquary 
-                           Gravitygun 
-                           Mystcraft
-                           PortalGun
-                        Wireless Redstone
+ Soulshards     Thaumcraft     Thaumic Tinkerers     Xenos Reliquary
+ Gravitygun     Mystcraft      PortalGun           Wireless Redstone
  
-                             BANNED ITEMS
+                        BANNED ITEMS:
 								
 |o&World Anchor|a&     - Causes lag, use Personal Anchors
 |o&Spot Loader|a&      - Causes lag, use Personal Anchors

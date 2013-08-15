@@ -9,7 +9,7 @@
                                                          
           |o&PERMANENT BAN     |g&TEMPORARY BAN      |b&JAIL     |e&MUTE
 
-          |i&IN CASE OF REINCIDENT THE PUNISHMENT MAY INCREASE!
+             IN CASE OF REINCIDENT THE PUNISHMENT MAY INCREASE!
              PUNISHMENT TIME IS DECIDED DEPENDING ON THE SEVERITY OF
 			 THE CRIME
 
