@@ -1,6 +1,4 @@
-1
-
-                           BANNED MODS:
+1                            BANNED MODS:
 								
                            Soulshards 
                            Thaumcraft
@@ -8,16 +6,28 @@
                          Xenos Reliquary 
                            Gravitygun 
                            Mystcraft
-                           PortaalGun
+                           PortalGun
                         Wireless Redstone
  
-                                BANNED ITEMS
+                             BANNED ITEMS
 								
- World Anchor (Use Personal Anchors Instead)
- Spot Loader (Use Personal Anchors Instead)
- Nuke, ITNT, TNT, Mining Lazer, Dynamite (Ignores Prevention)
- Safari Net (Ability To Steal Other Players Animals) 
- Crystal Chests (Lagg Inducing)
- BC Terraformer, Filler, Builder (Ignores GriefPrevention)
- BC Pump (Use Ender-Thermic Pump Instead)
+|o&World Anchor|a&     - Causes lag, use Personal Anchors
+|o&Spot Loader|a&      - Causes lag, use Personal Anchors
+|o&IC2 Nuke|a&         - Ignores Grief prevention
+|o&ITNT|a&             - Ignores Grief prevention
+|o&TNT|a&              - Ignores Grief prevention
+|o&IC2 Mining Laser|a& - Ignores Grief prevention
+|o&Dynamite|a&         - Ignores Grief prevention
+|o&Safari Net|a&       - Ignores Grief prevention 
+|o&Crystal Chests|a&   - Causes Lag
+|o&BC Terraformer|a&   - Ignores Grief prevention
+|o&BC Filler|a&        - Ignores Grief prevention
+|o&BC Builder|a&       - Ignores Grief prevention
+|o&BC Pump|a&          - Use Ender-Thermic Pump Instead
  
+ 
+ 
+ 
+ 
+ 
+ ---------------------------------------------------------------------
