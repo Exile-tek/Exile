@@ -1,8 +1,9 @@
 1                            
                         BANNED MODS:
 								
- |o&Soulshards  Thaumcraft  Thaumic Tinkerers  Xenos Reliquary
- Gravitygun  Mystcraft  PortalGun  Wireless Redstone Advanced Solars
+ |o&Soulshards    Thaumcraft         Thaumic Tinkerers
+ Xenos Reliquary  Gravitygun         Mystcraft  
+ PortalGun        Wireless Redstone  Advanced Solars
  
                         |a&BANNED ITEMS:
 								
