@@ -1,0 +1,26 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@X
+
+
+
+-----------------------------------------------------------------------
+
+                                 STAFF RANKS:
+ *INTERN         |- Lanilani26
+ *MODERATOR      |- Sgt_Kenzo, Sammy_mae
+ *LEAD MODERATOR |- Hooblah
+ *ADMIN          |- X187dannyx, Jabulba
+ *LEAD ADMIN     |- Thamuz Vetis
+
+                                 USER RANKS:
+ *NEW                    |- First rank no permissions.
+ *STUDENT                |- 1 home + bed
+ *APPRENTICE (2 hours)   |- 2 homes + bed
+ *USER       (10 hours)  |- Use Ender Chests
+ *TECHNICIAN (25 hours)  |- Use Quarries and Tesseracts, 3 homes + bed
+ *OPERATOR   (50 hours)  |-
+ *DIRECTOR   (75 hours)  |- 4 homes + bed
+ *LEADER     (100 hours) |-
+ *MANAGER    (150 hours) |- 5 homes + bed
+ *SPECIALIST (200 hours) |-
+ *ARCHITECT  (300 hours) |-
+ *ENGINEER   (500 hours) |-
