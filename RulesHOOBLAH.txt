@@ -1,30 +1,30 @@
 1
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@X
-                             PUNISHMENTS:
+
+
+
+
+
+                             |d&PUNISHMENTS:
                                                          
-          PERMANENT BAN     TEMPORARY BAN      JAIL     |&cMUTE|&a
+          |o&PERMANENT BAN     |g&TEMPORARY BAN      |b&JAIL     |e&MUTE
 
-          IN CASE OF REINCIDENT THE PUNISHMENT MAY INCREASE!
-         PUNISHMENT TIME IS DECIDED DEPENDING ON THE SEVERITY
-		 AND 
+          |i&IN CASE OF REINCIDENT THE PUNISHMENT MAY INCREASE!
+             PUNISHMENT TIME IS DECIDED DEPENDING ON THE SEVERITY OF
+			 THE CRIME
 
 
-   |&c*NO RACISM|&a                    |  *NO DISSENT/RANDOM PVP
-   *NO HACKING OR CHEATING       /  *NO HIDDEN TRAPS
-   *NO ABUSING BUGS OR EXPLOITS  \  *NO DISPRESPECTING OTHERS
-   *NO ADVERTISING               /  *NO DESTROYING THE OVERWORLD
-   *NO PRECONCEPTION             \  |&c*NO CURSING|&a
-   *NO AFK BYPASSING             /  |&c*NO RAGING/FLAMING IN GLOBAL|&a
-   *NO GRIEFING OR STEALING      \  |&c*NO CAPS-LOCK IN GLOBAL|&a
-   *NO BYPASSING CLAIMS          /  |&c*NO SPAMMING|&a
-   *NO SKY FARMS                 |  |&c*ENGLISH IN GLOBAL ONLY|&a
+   |o&*NO RACISM                     |p&|  |b&*NO DISSENT/RANDOM PVP
+   |o&*NO HACKING OR CHEATING        |p&/  |b&*NO HIDDEN TRAPS
+   |o&*NO ABUSING BUGS OR EXPLOITS   |p&\  |b&*NO DISPRESPECTING OTHERS
+   |o&*NO ADVERTISING OTHER SERVERS  |p&/  |b&*NO DESTROYING THE OVERWORLD
+   |o&*NO PRECONCEPTION              |p&\  |e&*NO CURSING
+   |g&*NO AFK MACHINES               |p&/  |e&*NO RAGING/FLAMING IN GLOBAL
+   |g&*NO GRIEFING OR STEALING       |p&\  |e&*NO CAPS-LOCK IN GLOBAL
+   |g&*NO BYPASSING CLAIMS           |p&/  |e&*NO SPAMMING
+   |g&*NO SKY FARMS                  |p&|  |e&*ENGLISH IN GLOBAL ONLY
    
-     In other words: We are a server to have fun building together
-	 
-	 
-	 
-	 
-	 
+     |n&In other words: We are a server to have fun building together
 	 
 	 
 	 
