@@ -6,11 +6,11 @@
 -----------------------------------------------------------------------
 
                                  STAFF RANKS:
- *INTERN         |- Lanilani26
- *MODERATOR      |- Sgt_Kenzo, Sammy_mae
- *LEAD MODERATOR |- Hooblah
- *ADMIN          |- X187dannyx, Jabulba
- *LEAD ADMIN     |- Thamuz Vetis
+ *|b&INTERN|a&     |- Lanilani26
+ *|e&MODERATOR|a&     |- Sgt_Kenzo, Sammy_mae
+ *|e&LEAD MODERATOR|a&     |- Hooblah
+ *|f&ADMIN|a&     |- X187dannyx, Jabulba
+ *|f&LEAD ADMIN|a&     |- Thamuz Vetis
 
                                  USER RANKS:
  *NEW                    |- First rank no permissions.
