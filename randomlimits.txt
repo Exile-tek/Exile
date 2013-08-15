@@ -6,7 +6,7 @@
  done to prevent griefing, world damage or server instability.
 
 |o&Ender-Thermic Pump|a& - Limit of 1 per person and only in
-                      resource world or the nether
+                    resource world or the nether
 
 |o&Block Breakers|a& - Limit of 6 per person
 
