@@ -18,10 +18,10 @@
  *APPRENTICE (2 hours)   |- 2 homes + bed
  *USER       (10 hours)  |- Use Ender Chests
  *TECHNICIAN (25 hours)  |- Use Quarries and Tesseracts, 3 homes + bed
- *OPERATOR   (50 hours)  |-
+ *OPERATOR   (50 hours)  |- Use Mass Fabricator, Nuclear Reactor
  *DIRECTOR   (75 hours)  |- 4 homes + bed
- *LEADER     (100 hours) |-
+ *LEADER     (100 hours) |- Laser Drill
  *MANAGER    (150 hours) |- 5 homes + bed
  *SPECIALIST (200 hours) |-
  *ARCHITECT  (300 hours) |-
- *ENGINEER   (500 hours) |-
+ *MASTER   (500 hours)   |-

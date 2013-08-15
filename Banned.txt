@@ -2,21 +2,25 @@
                         BANNED MODS:
 								
  |o&Soulshards  Thaumcraft  Thaumic Tinkerers  Xenos Reliquary
- Gravitygun  Mystcraft   PortalGun        Wireless Redstone
+ Gravitygun  Mystcraft  PortalGun  Wireless Redstone Advanced Solars
  
                         |a&BANNED ITEMS:
 								
-|o&World Anchor|a&     - Causes lag, use Personal Anchors
-|o&Spot Loader|a&      - Causes lag, use Personal Anchors
-|o&IC2 Nuke|a&         - Ignores Grief prevention
-|o&ITNT|a&             - Ignores Grief prevention
-|o&TNT|a&              - Ignores Grief prevention
-|o&IC2 Mining Laser|a& - Ignores Grief prevention
-|o&Dynamite|a&         - Ignores Grief prevention
-|o&Safari Net|a&       - Ignores Grief prevention 
-|o&Crystal Chests|a&   - Causes Lag
-|o&BC Terraformer|a&   - Ignores Grief prevention
-|o&BC Filler|a&        - Ignores Grief prevention
-|o&BC Builder|a&       - Ignores Grief prevention
-|o&BC Pump|a&          - Use Ender-Thermic Pump Instead
+|o&World Anchor|a&      - Causes lag, use Personal Anchors
+|o&Crumble Horn|a&      - Ignores Grief prevention
+|o&Ore Magnet|a&        - Cheating
+|o&Spot Loader|a&       - Causes lag, use Personal Anchors
+|o&Turtles|a&           - Ignores Grief prevention
+|o&IC2 Nuke|a&          - Ignores Grief prevention
+|o&ITNT|a&              - Ignores Grief prevention
+|o&MFFS Block breaker|a&- Ignores Grief prevention
+|o&TNT|a&               - Ignores Grief prevention
+|o&IC2 Mining Laser|a&  - Ignores Grief prevention
+|o&Dynamite|a&          - Ignores Grief prevention
+|o&Safari Net|a&        - Ignores Grief prevention 
+|o&Crystal Chests|a&    - Causes Lag
+|o&BC Terraformer|a&    - Ignores Grief prevention
+|o&BC Filler|a&         - Ignores Grief prevention
+|o&BC Builder|a&        - Ignores Grief prevention
+|o&BC Pump|a&           - Use Ender-Thermic Pump Instead
  ---------------------------------------------------------------------
