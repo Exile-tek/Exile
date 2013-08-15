@@ -1,12 +1,12 @@
 1
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@X
-                            LIMITED USE ITEMS
+                        LIMITED USE ITEMS
 							
- Some items have limits on there use on the server, this is done to
- prevent griefing, world damage or server instability.
+ Some items have limits on there use on the server, this is 
+ done to prevent griefing, world damage or server instability.
 
-Ender-Thermic Pump - Limit of 1 per person and only in resource world
- or the nether
+Ender-Thermic Pump - Limit of 1 per person and only in
+ resource world or the nether
 
 Block breaker - Limit of 6 per person
 
@@ -16,5 +16,6 @@ IC2 Miner - Limited to resource world
 
 Quarry - Limited to resource world
 
- There may also be limits on what rank you have to be to use a item,
- Please check the player rank screen or website for more details
+ There may also be limits on what rank you have to be to use
+ a item, Please check the player rank screen or website for
+ more details
