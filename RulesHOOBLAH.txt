@@ -2,22 +2,22 @@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@X
                              PUNISHMENTS:
                                                          
-          PERMANENT BAN     TEMPORARY BAN      JAIL     MUTE
+          PERMANENT BAN     TEMPORARY BAN      JAIL     |&cMUTE|&a
 
           IN CASE OF REINCIDENT THE PUNISHMENT MAY INCREASE!
          PUNISHMENT TIME IS DECIDED DEPENDING ON THE SEVERITY
 		 AND 
 
 
-   *NO RACISM                    |  *NO DISSENT/RANDOM PVP
+   |&c*NO RACISM|&a                    |  *NO DISSENT/RANDOM PVP
    *NO HACKING OR CHEATING       /  *NO HIDDEN TRAPS
    *NO ABUSING BUGS OR EXPLOITS  \  *NO DISPRESPECTING OTHERS
    *NO ADVERTISING               /  *NO DESTROYING THE OVERWORLD
-   *NO PRECONCEPTION             \  *NO CURSING
-   *NO AFK BYPASSING             /  *NO RAGING/FLAMING IN GLOBAL
-   *NO GRIEFING OR STEALING      \  *NO CAPS-LOCK IN GLOBAL
-   *NO BYPASSING CLAIMS          /  *NO SPAMMING
-   *NO SKY FARMS                 |  *ENGLISH IN GLOBAL ONLY
+   *NO PRECONCEPTION             \  |&c*NO CURSING|&a
+   *NO AFK BYPASSING             /  |&c*NO RAGING/FLAMING IN GLOBAL|&a
+   *NO GRIEFING OR STEALING      \  |&c*NO CAPS-LOCK IN GLOBAL|&a
+   *NO BYPASSING CLAIMS          /  |&c*NO SPAMMING|&a
+   *NO SKY FARMS                 |  |&c*ENGLISH IN GLOBAL ONLY|&a
    
      In other words: We are a server to have fun building together
 	 
