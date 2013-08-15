@@ -2,14 +2,14 @@
 
                                 BANNED MODS:
 								
- 				Soulshards, 
- 				Thaumcraft, 
- 			      Thaumic Tinkerer, 
- 			      Xenos Reliquary, 
- 				Gravitygun, 
-				 Mystcraft,
-				 PortalGun, 
- 		              Wireless Redstone
+                                Soulshards 
+                                Thaumcraft
+                              Thaumic Tinkerer 
+                              Xenos Reliquary 
+                                Gravitygun 
+                                Mystcraft
+                                PortaalGun
+                             Wireless Redstone
  
                                 BANNED ITEMS
 								
