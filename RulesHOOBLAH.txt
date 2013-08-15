@@ -5,9 +5,9 @@
 
 
 
-                             |d&PUNISHMENTS:
+                             |a&PUNISHMENTS:
                                                          
-          |o&PERMANENT BAN     |g&TEMPORARY BAN      |b&JAIL     |e&MUTE
+          |o&PERMANENT BAN     |g&TEMPORARY BAN      |b&JAIL     |e&MUTE|a&
 
              IN CASE OF REINCIDENT THE PUNISHMENT MAY INCREASE!
              PUNISHMENT TIME IS DECIDED DEPENDING ON THE SEVERITY OF
@@ -24,7 +24,7 @@
    |g&*NO BYPASSING CLAIMS           |p&/  |e&*NO SPAMMING
    |g&*NO SKY FARMS                  |p&|  |e&*ENGLISH IN GLOBAL ONLY
    
-     |n&In other words: We are a server to have fun building together
+     |a&In other words: We are a server to have fun building together
 	 
 	 
 	 
