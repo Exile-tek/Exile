@@ -5,11 +5,16 @@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@X
                                 BANNED MODS:
 								
- Soulshards, Thaumcraft, Thaumic Tinkerer, Xenos Reliquary, Gravitygun,
- Mystcraft, Portalgun
+ Soulshards, Thaumcraft, Thaumic Tinkerer, 
+ Xenos Reliquary, Gravitygun, Mystcraft,
+ PortalGun, Wireless Redstone
  
                                 BANNED ITEMS
 								
- World Anchor, Spot loader, Anchor Sentinal, Nuke, Wireless Jammer,
- Dynamite, R.E.P, Crystal Chests, BC Terraformer, BC Filler,
- BC Builder, IC2 Mining laser,
+ World Anchor + Spot Loader (Use Personal Anchors Instead)
+ Nuke, ITNT, TNT, Mining Lazer, Dynamite (Ignores GriefPrevention)
+ Safari Net (Ability To Steal Other Players Animals) 
+ Crystal Chests (Lagg Inducing)
+ BC Terraformer, Filler, Builder (Ignores GriefPrevention)
+ BC Pump (Use Ender-Thermic Pump Instead)
+ 
