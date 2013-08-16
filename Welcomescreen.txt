@@ -1,16 +1,16 @@
 2
 -----------------------------------------------------------------------
-    WELCOME TO EXILE-TEK
-A FEED THE BEAST UNLEASHED SERVER
+         WELCOME TO EXILE-TEK
+  A FEED THE BEAST UNLEASHED SERVER
 
- Website: www.Exile-Tek.com
-Ventrillo: vent.Exile-Tek.com:10465 Password: redpower
-Donations: donate.Exile-Tek.com
+      Website: www.Exile-Tek.com
+Ventrillo: vent.Exile-Tek.com:10465
+         Password: redpower
+Donations: Donate.Exile-Tek.com
 
-We are a friendly PvE server 
-Please make your way through the tutorial to build				  
-
-
+     We are a friendly PvE server 
+Please make your way through the
+          tutorial to build				  
 
 
 -----------------------------------------------------------------------
