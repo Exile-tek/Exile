@@ -18,7 +18,7 @@
 
 |o&Quarrys|a& - Limited to resource world
 
-|o&Vajrar|a& - Right click disabled
+|o&Vajra|a& - Right click disabled
 
  There may also be limits on what rank you have to be to use
  a item, Please check the player rank screen or website for
