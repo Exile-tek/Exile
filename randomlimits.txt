@@ -2,7 +2,7 @@
 -----------------------------------------------------------------------
                         LIMITED USE ITEMS
 							
-     Some items have limits on there use on the server,
+     Some items have limits on their use on the server,
      this is done to prevent griefing, world damage or
      server instability. We also have set a limit of 64
      of ANY machine unless otherwise stated.
