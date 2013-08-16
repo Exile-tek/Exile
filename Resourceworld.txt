@@ -4,29 +4,28 @@
                                 EXILE-TEK WORLDS:
 
 								
-|o& THE NETHER|a& - Reset every Saturday at around Midnight
+|o& THE NETHER|a&
 
+Reset every Saturday at around Midnight
 Pumps and wrath Igniters are allowed in this world
 
-|o& TWILIGHT FOREST|a& - Reset every Saturday at around Midnight
+|o& TWILIGHT FOREST|a&
 
-|o& THE END|a& - Reset every Saturday at around Midnight
+Reset every Saturday at around Midnight
 
-|o& RESOURCE WORLD|a& (or mining world) - Reset every Saturday at around Midnight
+|o& THE END|a&
 
+Reset every Saturday at around Midnight
+
+|o& RESOURCE WORLD|a& (or mining world)
+
+Reset every Saturday at around Midnight
 Pumps, Quarries and IC2 Miners are allowed in this world
 
 |o& OVERWORLD|a& (or buildworld)
+
 Never resets, this is the world for players to build homes and compounds.
 Pumps, Quarries, IC2 Miners and Wrath Igniters are NOT allowed here.
-
-
-
-
-
-
-
-
 
 
 
