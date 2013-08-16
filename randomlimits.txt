@@ -1,9 +1,11 @@
 1
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@X
+-----------------------------------------------------------------------
                         LIMITED USE ITEMS
 							
- Some items have limits on there use on the server, this is 
- done to prevent griefing, world damage or server instability.
+     Some items have limits on there use on the server,
+	 this is done to prevent griefing, world damage or
+	 server instability. We also have set a limit of 64
+	 of ANY machine unless otherwise stated.
 
 |o&Ender-Thermic Pump|a& - Limit of 1 per person and only in
                    resource world or the nether
@@ -16,8 +18,15 @@
 
 |o&Quarrys|a& - Limited to resource world
 
-|o&Vajar|a& - Right click disabled
+|o&Vajrar|a& - Right click disabled
 
  There may also be limits on what rank you have to be to use
  a item, Please check the player rank screen or website for
  more details
+ 
+ 
+ 
+ 
+ 
+ 
+ ----------------------------------------------------------------------

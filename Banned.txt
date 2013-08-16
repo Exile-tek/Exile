@@ -1,7 +1,8 @@
-1                            
+1  
+-----------------------------------------------------------------------                          
                         BANNED MODS:
 								
- |o&Soulshards    Thaumcraft         Thaumic Tinkerers
+ |o&Soulshards       Thaumcraft         Thaumic Tinkerers
  Xenos Reliquary  Gravitygun         Mystcraft  
  PortalGun        Wireless Redstone  Advanced Solars
  
@@ -24,4 +25,8 @@
 |o&BC Filler|a&         - Ignores Grief prevention
 |o&BC Builder|a&        - Ignores Grief prevention
 |o&BC Pump|a&           - Use Ender-Thermic Pump Instead
+
+
+
+
  ---------------------------------------------------------------------
