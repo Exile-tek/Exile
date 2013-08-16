@@ -1,4 +1,32 @@
 1
+-----------------------------------------------------------------------
+HOW TO USE GRIEF PREVENTION:
+
+When you place your first chest, you will get a automatic 9x9 claim
+around your chest. To see your claim right click the ground with a 
+stick. To extend your claim get a golden shovel, then right click
+on the glowstone, then where you want your claim to be moved to.
+
+To Trust someone on your claim use the /trust PLAYERNAME
 
 
-TEST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------------
