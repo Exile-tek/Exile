@@ -1,7 +1,7 @@
 2
 |l&-----------------------------------------------------------------------|a&
-        WELCOME TO EXILE-TEK
-  A FEED THE BEAST UNLEASHED SERVER
+        |o&WELCOME TO EXILE-TEK
+  A FEED THE BEAST UNLEASHED SERVER|a&
 
      Website: www.Exile-Tek.com
    Vent: vent.Exile-Tek.com:10465
