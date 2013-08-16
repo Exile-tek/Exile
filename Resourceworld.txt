@@ -24,8 +24,8 @@ Pumps, Quarries and IC2 Miners are allowed in this world
 
 |o& OVERWORLD|a& (or buildworld)
 
-Never resets, this is the world for players to build homes and compounds.
-Pumps, Quarries, IC2 Miners and Wrath Igniters are NOT allowed here.
+Never resets, this is the world for players to build homes
+Pumps, Quarries, IC2 Miners and Wrath Igniters are NOT allowed here
 
 
 
