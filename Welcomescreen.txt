@@ -7,26 +7,6 @@
          Ventrillo: vent.Exile-Tek.com:10465 Password: redpower
                     Donations: donate.Exile-Tek.com
 
-                      We are a friendly PvE server
-                   Certain mods are currently disabled 
-           Please make your way through the tutorial to build
-                  
-				  
-				  
-				  
-				  
-				  
-				  
-				  
-				  
-				  
-				  
-				  
-				  
-				  
-				  
-				  
-				  
-				  
-				  
+                      We are a friendly PvE server 
+           Please make your way through the tutorial to build				  
 -----------------------------------------------------------------------
