@@ -2,21 +2,21 @@
 |l&-----------------------------------------------------------------------|a&
                     HOW TO USE GRIEF PREVENTION:
 
- When you place your first chest, you will get a automatic 9x9 claim
- around your chest. To see your claim right click the ground with a 
- stick. To extend your claim get a golden shovel, then right click
- on the glowstone, then where you want your claim to be moved to.
+ After you place your first chest you will get a automatic 9x9 claim
+ around your chest. You will notice the glowstone and gold blocks
+ Showing you the edge of your claim.
+ 
+ To see your claimed area again, right click the ground with a stick.
+ 
+ To extend your claim get a golden shovel then right click
+ on the glowstone edging, after that right click where you want your
+ claim to be moved to. The same method is used for creating a new claim
 
- To Trust someone on your claim use the /trust PLAYERNAME
-
-
-
-
-
-
-
-
-
+ To trust someone on your claim use the |d&/trust PLAYERNAME|a&
+ To remove someones trust use |d&/untrust PLAYERNAME|a&
+ To remove a claim use |d&/abandonclaim|a&
+ 
+ If you require more information please see the website
 
 
 
