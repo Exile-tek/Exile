@@ -8,6 +8,9 @@
  *|f&ADMIN|a&          |- X187dannyx, Jabulba
  *|f&LEAD ADMIN|a&     |- Thamuz Vetis
 
+ 
+ 
+ 
                                  USER RANKS:
  *|b&NEW|a&                    |- First rank no permissions.
  *|b&STUDENT|a&                |- 1 home + bed
@@ -20,10 +23,7 @@
  *|b&MANAGER|a&    (150 hours) |- 5 homes + bed
  *|b&SPECIALIST|a& (200 hours) |-
  *|b&ARCHITECT|a&  (300 hours) |-
- *|b&MASTER|a&   (500 hours)   |-
- 
- 
- 
+ *|b&MASTER|a&     (500 hours) |-
  
  
  
