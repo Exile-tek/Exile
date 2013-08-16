@@ -9,7 +9,7 @@
                                                          
           |o&PERMANENT BAN     |g&TEMPORARY BAN      |b&JAIL     |e&MUTE|a&
 
-             IN CASE OF REINCIDENT THE PUNISHMENT MAY INCREASE!
+           IN CASE OF REINCIDENT THE PUNISHMENT MAY INCREASE!
         PUNISHMENT TIME IS DECIDED BY THE SEVERITY OF THE CRIME
 		               AND THE JUDGEMENT OF STAFF MEMBERS
 
@@ -24,7 +24,7 @@
    |g&*NO BYPASSING CLAIMS           |p&/  |e&*NO SPAMMING
    |g&*NO SKY FARMS                  |p&|  |e&*ENGLISH IN GLOBAL ONLY
    
-     |a&In other words: We are a server for having fun building together
+   |a&In other words: We are a server for having fun building together
 	 
 	 
 	 
