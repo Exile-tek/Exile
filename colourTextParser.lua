@@ -15,7 +15,7 @@ function parseColours(data, peripheral)
 	local index = 1;
 	local tables = {};
 	while true do
-		local a, b = data:find("|[a-p]&amp;", i);
+		local a, b = data:find("|[a-p]&", i);
 		if a == nil then
 			tables[index] = string.sub(data, i) .. "";
 			break;
@@ -26,36 +26,36 @@ function parseColours(data, peripheral)
 		i = b+1;
 	end
 	for key,value in pairs(tables) do
-		if value:find("|[a-p]&amp;") then
-			if value == "|b&amp;" then
+		if value:find("|[a-p]&") then
+			if value == "|b&" then
 				peripheral.setTextColour(2);
-			elseif value == "|c&amp;" then
+			elseif value == "|c&" then
 				peripheral.setTextColour(4);
-			elseif value == "|d&amp;" then
+			elseif value == "|d&" then
 				peripheral.setTextColour(8);
-			elseif value == "|e&amp;" then
+			elseif value == "|e&" then
 				peripheral.setTextColour(16);
-			elseif value == "|f&amp;" then
+			elseif value == "|f&" then
 				peripheral.setTextColour(32);
-			elseif value == "|g&amp;" then
+			elseif value == "|g&" then
 				peripheral.setTextColour(64);
-			elseif value == "|h&amp;" then
+			elseif value == "|h&" then
 				peripheral.setTextColour(128);
-			elseif value == "|i&amp;" then
+			elseif value == "|i&" then
 				peripheral.setTextColour(256);
-			elseif value == "|j&amp;" then
+			elseif value == "|j&" then
 				peripheral.setTextColour(512);
-			elseif value == "|k&amp;" then
+			elseif value == "|k&" then
 				peripheral.setTextColour(1024);
-			elseif value == "|l&amp;" then
+			elseif value == "|l&" then
 				peripheral.setTextColour(2048);
-			elseif value == "|m&amp;" then
+			elseif value == "|m&" then
 				peripheral.setTextColour(4096);
-			elseif value == "|n&amp;" then
+			elseif value == "|n&" then
 				peripheral.setTextColour(8192);
-			elseif value == "|o&amp;" then
+			elseif value == "|o&" then
 				peripheral.setTextColour(16384);
-			elseif value == "|p&amp;" then
+			elseif value == "|p&" then
 				peripheral.setTextColour(32768);
 			else
 				peripheral.setTextColour(1);
@@ -104,7 +104,7 @@ for num, monitor in ipairs(monitorList) do
 	local textSize = tonumber(rules.readLine());
 	if textSize == nil then
 		error("The first line in the file must be a number between 0.5 and 5, but was blank!");
-	elseif not ((textSize &gt;= 0.5) and (textSize &lt;= 5.0)) then
+	elseif not ((textSize >= 0.5) and (textSize <= 5.0)) then
 		error("The first line in the file must be the text size, the number must be between 0.5 and 5.0 but is " .. textSize,0);
 	end
 	monitor.setTextScale(textSize);
