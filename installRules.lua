@@ -35,16 +35,16 @@ function purgeSystem()
 end
 purgeSystem();
 print("Downloading latest parser version...");
-downloadFile("https://raw.github.com/Jabulba/EXILE_OS/master/admin/colourTextParser.lua", "colourTextParser.lua");
+downloadFile("https://raw.github.com/Exile-tek/Exile/master/colourTextParser.lua", "colourTextParser.lua");
 print("parser installed.");
 
 print("Downloading latest rules files...")
 local i = 0;
-local rulesFileList = http.get("https://raw.github.com/Jabulba/EXILE_OS/master/admin/rulesFiles.List");
+local rulesFileList = http.get("https://raw.github.com/Exile-tek/Exile/master/rulesFiles.List");
 while true do
 	local file = rulesFileList.readLine();
 	if file == nil then break end
-	downloadFile("https://raw.github.com/Jabulba/EXILE_OS/master/admin/" .. file, file);
+	downloadFile("https://raw.github.com/Exile-tek/Exile/master/" .. file, file);
 	i = i + 1;
 end
 print(i .. " files downloaded.");
