@@ -87,7 +87,9 @@ function getMonitor()
 			if peripheral.call(aux, "isColour") then
 				table.insert(monitorList, peripheral.wrap(aux));
 			else
-				error("The monitor doesn't supports colours", 0);
+				print("The monitor doesn't supports colours", 0);
+				os.sleep(1);
+				os.reboot();
 			end
 		end
 	end
@@ -97,6 +99,7 @@ function getMonitor()
 	return(monitorList)
 end
 
+os.sleep(1);
 local monitorList = getMonitor();
 local rulesFiles = readConfig(monitorList);
 for num, monitor in ipairs(monitorList) do
